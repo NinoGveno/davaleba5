@@ -1,0 +1,24 @@
+header{
+	height: 387.56px;
+    max-width: 1920px;
+    width: 100%;
+    background-color: #0020F4;
+    padding-top: 45px;
+}
+.container {
+	max-width: 1440px;
+	width: 90%;
+	margin: 0 auto;}
+ header img{margin-right: 200px;
+    vertical-align: middle; } 
+nav, nav ul, nav li{ display: inline-block;}
+nav a{ color: white;}
+nav li{
+    margin-left: 43px;
+}
+.contact{ color: #171717;
+    background-color: #FFFFFF;
+    padding: 18px 43px 18px 36px;
+    border-radius: 28px;
+
+}
