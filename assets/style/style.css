@@ -49,3 +49,30 @@ section div img{
     width: 219px;
     height: 219px;
     margin-right: 20px;}
+ .section2{ max-width: 951;
+    width: 70%;
+    margin: auto;
+    margin-top: 60px;
+
+}   
+section p{ font-size: 16px;
+    color: #171717;
+    font-family: HelveticaNeue;
+
+}
+.sectionp{margin-top: 18px;
+    margin-bottom: 18px;
+
+}
+button{font-size: 16px;
+    color: #FFFFFF;
+    background-color: #0A22F4;
+    padding: 18px 77px 18px 57px;
+    border-radius: 28px;
+    display: inline;
+    margin: auto;
+    margin-top: 58px;
+    margin-bottom: 180px; 
+
+
+}
