@@ -81,11 +81,11 @@ footer{
     max-width: 1920px;
     width: 100%;
     background-color: #0A22F4;
+    padding-top: 275px;
 }
-h3{font-size: 32px;
+ footer h3{font-size: 32px;
     color: #FFFFFF;
     font-family: HelveticaNeu;
-    margin-top: 275px;
     margin-left: 240px;
     margin-bottom: 30px;
 
@@ -104,5 +104,20 @@ iframe{ max-width: 463px;
     margin-left: 240px;
     margin-bottom: 70px;
 
+}
+footer div{
+    margin-left: 240px;
+}
+ footer div img{ 
+    color: #0A22F4;
+    background-color: #FFFFFF;
+    border-radius: 50px;
+    padding: 22px;
+    vertical-align: middle;
+}
+footer div a{ 
+    color: #FFFFFF;
+    font-size: 22px;
+    margin-right: 98px;
 }
 
